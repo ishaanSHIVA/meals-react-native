@@ -3,6 +3,7 @@ import { enableScreens } from "react-native-screens";
 import { createStore, combineReducers } from "redux";
 import { Provider } from "react-redux";
 
+//fdsdssd
 // FONT
 import AppLoading from "expo-app-loading";
 import * as Font from "expo-font";
